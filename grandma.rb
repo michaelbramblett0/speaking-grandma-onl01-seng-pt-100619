@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 if speak_to_grandma == "I Love You Grandma" .upcase
   puts "I LOVE YOU TOO PUMPKIN"
-elsif 
+elsif speak_to_grandma == ""
 else puts "HUH?! SPEAK UP, SONNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
