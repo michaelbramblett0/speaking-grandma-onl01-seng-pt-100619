@@ -1,4 +1,5 @@
 # Write a speak_to_grandma method.
+speak_to_grandma = "I LOVE YOU GRANDMA"
 if speak_to_grandma == "I Love You Grandma".upcase
   puts "I LOVE YOU TOO PUMPKIN"
 elsif speak_to_grandma = "Hi Nana".upcase
