@@ -5,7 +5,7 @@ def speak_to_grandma(string)
   elsif string == "WHAT DID YOU EAT TODAY?"
     "NO, NOT SINCE 1938!"
   else string == "WHAT?"
-   "HUH?! SPEAK UP, SONNY!"
+   "NO, NOT SINCE 1938!"
   end
 end
 
