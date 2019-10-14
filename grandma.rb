@@ -7,7 +7,9 @@ def speak_to_grandma(string)
   elsif string == "WHAT?"
    "NO, NOT SINCE 1938!"
   else "Hi Nana, how are you?"
-    "HUH?! SPEAK UP, SONNY"
+    "HUH?! SPEAK UP, SONNY!"
+  else "Hi Nana"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
 
